@@ -1,6 +1,5 @@
-
 {
-  "id" : "tesla",
-  "color" : "red",
-  "image" : "https://tesla-cdn.thron.com/delivery/public/image/tesla/3863f3e5-546a-4b22-bcbc-1f8ee0479744/bvlatuR/std/1200x628/MX-Social"
+  "id": "tesla",
+  "color": "red",
+  "image": "https://tesla-cdn.thron.com/delivery/public/image/tesla/3863f3e5-546a-4b22-bcbc-1f8ee0479744/bvlatuR/std/1200x628/MX-Social"
 }
